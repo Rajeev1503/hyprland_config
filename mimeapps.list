@@ -1,0 +1,11 @@
+[Added Associations]
+application/zip=thunar.desktop;userapp-unzip-39VTQ2.desktop;
+
+[Default Applications]
+application/zip=userapp-unzip-39VTQ2.desktop
+application/rss+xml=google-chrome.desktop
+application/pdf=google-chrome.desktop
+application/vnd.mozilla.xul+xml=google-chrome.desktop
+application/xhtml+xml=google-chrome.desktop
+application/rdf+xml=google-chrome.desktop
+application/xml=google-chrome.desktop

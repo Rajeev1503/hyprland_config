@@ -1,6 +1,21 @@
-2024/07/15-10:16:58.385 4 Reusing MANIFEST /home/rajeev/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2024/07/15-10:16:58.389 4 Recovering log #7
-2024/07/15-10:16:58.390 4 Reusing old log /home/rajeev/.config/google-chrome/Default/Local Storage/leveldb/000007.log 
-2024/07/15-10:20:32.606 6 Level-0 table #11: started
-2024/07/15-10:20:32.615 6 Level-0 table #11: 28699 bytes OK
-2024/07/15-10:20:32.617 6 Delete type=0 #7
+2024/07/15-18:31:52.743 6 Reusing MANIFEST /home/rajeev/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/07/15-18:31:52.744 6 Recovering log #72
+2024/07/15-18:31:52.745 6 Reusing old log /home/rajeev/.config/google-chrome/Default/Local Storage/leveldb/000072.log 
+2024/07/15-18:32:23.767 6 Level-0 table #76: started
+2024/07/15-18:32:23.769 6 Level-0 table #76: 39859 bytes OK
+2024/07/15-18:32:23.771 6 Delete type=0 #72
+2024/07/15-18:44:34.754 6 Level-0 table #78: started
+2024/07/15-18:44:34.763 6 Level-0 table #78: 40098 bytes OK
+2024/07/15-18:44:34.766 6 Delete type=0 #75
+2024/07/15-19:02:16.754 6 Level-0 table #80: started
+2024/07/15-19:02:16.762 6 Level-0 table #80: 34953 bytes OK
+2024/07/15-19:02:16.765 6 Delete type=0 #77
+2024/07/15-19:02:16.765 6 Compacting 4@0 + 1@1 files
+2024/07/15-19:02:16.773 6 Generated table #81@0: 222 keys, 341225 bytes
+2024/07/15-19:02:16.773 6 Compacted 4@0 + 1@1 files => 341225 bytes
+2024/07/15-19:02:16.774 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/15-19:02:16.775 6 Delete type=2 #71
+2024/07/15-19:02:16.775 6 Delete type=2 #73
+2024/07/15-19:02:16.775 6 Delete type=2 #80
+2024/07/15-19:02:16.775 6 Delete type=2 #78
+2024/07/15-19:02:16.775 6 Delete type=2 #76

@@ -2,9 +2,9 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
+            "file:///home/rajeev": "__default__profile__",
             "file:///home/rajeev/.config/hypr": "__default__profile__",
-            "file:///home/rajeev/.config": "__default__profile__",
-            "file:///home/rajeev": "__default__profile__"
+            "file:///home/rajeev/.config": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -16,21 +16,21 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/rajeev"
+                "folderUri": "file:///home/rajeev/.config"
             }
         ],
         "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/rajeev",
-            "backupPath": "/home/rajeev/.config/Code - OSS/Backups/08d3d1dff91ae6514171563275d5e00a",
+            "folder": "file:///home/rajeev/.config",
+            "backupPath": "/home/rajeev/.config/Code - OSS/Backups/b368d42ae40d81ac7417e5d02cec7cc7",
             "uiState": {
                 "mode": 1,
-                "x": 7,
-                "y": 37,
-                "width": 1906,
-                "height": 1036
+                "x": 965,
+                "y": 51,
+                "width": 948,
+                "height": 1022
             }
         },
         "openedWindows": []
@@ -83,17 +83,6 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/rajeev",
-                                        "path": "/home/rajeev",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/home/rajeev"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/rajeev/.config",
                                         "path": "/home/rajeev/.config",
                                         "scheme": "file"
@@ -111,6 +100,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.config/hypr"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/rajeev",
+                                        "path": "/home/rajeev",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/rajeev"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -827,8 +827,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -837,8 +836,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"

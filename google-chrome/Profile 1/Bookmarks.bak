@@ -1,0 +1,92 @@
+{
+   "checksum": "e9a2ad8b590280b9f7edba65d6996524",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13362038945237376",
+            "date_last_used": "13363939791600575",
+            "guid": "f0b94aaa-95cb-41d5-9ed8-224f9bc7c540",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Daily Stand Up Meeting",
+            "type": "url",
+            "url": "https://meet.google.com/qjp-ksrn-inp"
+         }, {
+            "date_added": "13362830978904476",
+            "date_last_used": "0",
+            "guid": "7c686453-f808-4270-9fd5-3d35d7d78c83",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Meet - bny-unte-vcu",
+            "type": "url",
+            "url": "https://meet.google.com/bny-unte-vcu?authuser=0"
+         }, {
+            "date_added": "13365104619144009",
+            "date_last_used": "13365195522417185",
+            "guid": "70fd4136-4067-4dd1-ad49-31ba6f1e19f0",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "theProspect.ai - Backlog - Jira",
+            "type": "url",
+            "url": "https://skynetiks.atlassian.net/jira/software/projects/PROS/boards/1/backlog?cloudId=e1b3b457-c6f3-46ba-ab66-6615bb0d0ee1&selectedIssue=PROS-42"
+         }, {
+            "date_added": "13364658770912392",
+            "date_last_used": "13365104548921828",
+            "guid": "401585a0-bc06-4f3b-8622-e21f04fb71a1",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Skynetiks/theprospect-website",
+            "type": "url",
+            "url": "https://github.com/Skynetiks/theprospect-website"
+         }, {
+            "date_added": "13365104559110759",
+            "date_last_used": "13365340599997777",
+            "guid": "60f48f32-568c-41df-8bd1-eab70e4abb2b",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Skynetiks/theprospect",
+            "type": "url",
+            "url": "https://github.com/Skynetiks/theprospect"
+         } ],
+         "date_added": "13365492430076656",
+         "date_last_used": "0",
+         "date_modified": "13365104619144009",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13365492430076663",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13365492430076667",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CuEBCsABCIiBAhK5ASAAkgGzAQpqCg5jaHJvbWVfc3luY19ibRIFNTEhYm0aEgk9pr/tQR0GABE9pr/tQR0GACI0Cck1ou1BHQYAEAMZ0oopWwnm0XYgASocNTEhYm0vZmQ6OTE2MzcyMzU1OTQ2ODg5MzE2MSmZUMHtQR0GAApFChZhbm5vdGF0aW9uX2Nocm9tZV9zeW5jEgU1MSFiZBoSCQBy1+dBHQYAEQBy1+dBHQYAKRixv+1BHQYAMIDk3b6eqIcDEgAqGGYrQ3BqVkVFUVAvRWYxYkJ5OEdMNFE9PUgDEuwBCAkS5wEKHEFkRUZxM0RnRUMvWEFwOG5IVG5CTGNlVGxyVT0SZlo6QURxdEFaenJOOEliQjl2UXBJSGlkM05Sd21Bck41UkVaVnhQMGZhendteVJyeWEzdjB0QXJEVSs0SHdtazFiOGZRem4vSEFCYS9Hdnd1VHlFOTMzYzE0WWovc25yYTlhV2c9PRgAIAAoADDauMSW66OHAziGuOPsiTJAhrjj7IkyShxmS0FublByeXBLVDB6UUt2VjRNS3lEL3N2bFU9Wh8iHd5FZThVYmZFbnNZRGhaanE0WnR5RXJVeEhrTEU9ZcClKLoS7AEICBLnAQocVysvYndDbythb1pqYUhva0xrN3l1aUM5bU9VPRJmWjpBRHF0QVp6ck44SWJCOXZRcElIaWQzTlJ3bUFyOXczU3JiSTUrSXB1V2xna1FzSnJQSS9sdVJjSzNEbjhuRGk3a0hBdktUUityRmhGeTB5clBDaElPV2ZtNnlOa0dMVmpYQT09GAAgACgAMJ3jk+b5nIcDOODXmpiIMkDg15qYiDJKHEVNRVVrbzBkaUttTjN3S01nQzdQVjdjSjVwVT1aHyIdvEtJOUp1clpnMU95R3BnSW93cXZiUHpiWVZGTT1lwKUouhLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnhTeU9KaklFaCtBS3dWU0RrVjNOQ0lGeEoxbm9EWUJtQmZVVDZKbzIzNDU0dm9kNEp0Yjdta0toa28wcVM1QXZDeXVNRXJPRVM2L3plaS9IWVMrZHBTTUgvN3JnPT0YACAAKAAwj/HA6oifhwM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLsAQgHEucBChx2YXo2YWJmamh2N0d4QVU0T1F4UnIyZVZsT0k9EmZaOkFEcXRBWnpyTjhJYkI5dlFwSUhpZDNOUndtQXI3VXFFQnpKaHZnV1pyRExnUmxGZHZFVDFBdXNrb2NoMmJpNW1jMkZ6VnlTUEVGTnR2MmRlOUFtVnB1ejFiN3d6c0g1d3BnPT0YACAAKAAw39mEg9GfhwM4iI3n7IkyQIiN5+yJMkocUFJlNjhLWFFndEVyVUt3MTAvZnJGNjhYQmJBPVofIh2aU2pDcDNjbWNSdmRFUVQ2eFFIaktic1pvV3ZRPWWNMy8xEusBCAYS5gEKHHdkaFBhOXFEaHVYeHhMY1ZicldYQk5KblFpND0SZlo6QURxdEFaenJOOEliQjl2UXBJSGlkM05Sd21Bclp5K1FyTnBMcURnMmtmRGJkanFQb1VRQVFLOXR2Y1BBbnR0VFBmY3RQNUVZUDJscTFhU2xFUiszMzZsZlFKb0VRaHFKR2c9PRgAIAAoADCQvveJ5NqGAzjYjtOwgTJA2I7TsIEyShxzc3Q1REl2NHhiWm5CU0x3SjRGaWtOckExQVU9Wh4iHHkwNU1tMTdnNUgrcXpzajErNk0wMzZ3ZkpnMD1l9CL1GxLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWndWVDJjRTJ4L2VBeERraUozVlhvT1J6R01ESVQ5VENLRHlWVEc4UHJNTGlSeTQxS1NUTVBJOSswZUFOWkNvKzZ6S0Qya3hMR0dnWVZhdzNKYXUyTTI5M3gydjdRPT0YACAAKAAwj/HA6oifhwM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLrAQgFEuYBChw2eStXaTBsbWpkNGdzYmVmeXM5ZHA1MW5aNjQ9EmZaOkFEcXRBWnpyTjhJYkI5dlFwSUhpZDNOUndtQXI5TjBkejEwZjAxQ3Q1QWNaVUFlMXB3WUdMTytLOEkxWFVNVEkxYktIZHd3Wk82amU3SVpMa1YvZFF1ekZRelY2c1BuY2h3PT0YACAAKAAw5YDqzdCHhwM41pv9tv4xQNab/bb+MUocMkNndzRTbklaRnFPeHg1MG1QT240THRCeENjPVoeIhxFZDk0bHVJbHd1RVJ5QTIvSUhCbjhCT3pMSjQ9ZfQi9RsSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5dUkvNmdrZnF4YXN6cEJYU0NPd1Z6NUZBQ21BdWkrUjRkNGhZcG4xNkJ5aGdoYkhqMVpaQ2FmczZ4OVI4c0RYK2tsNjltGAAgACgAMI/xwOqIn4cDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwATgA",
+   "version": 1
+}

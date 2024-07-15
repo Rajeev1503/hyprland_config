@@ -1,15 +1,18 @@
-2024/07/15-09:25:34.273 4b04 Reusing MANIFEST /home/rajeev/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/15-09:25:34.273 4b04 Recovering log #3
-2024/07/15-09:25:34.283 4b04 Reusing old log /home/rajeev/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
-2024/07/15-09:25:46.444 4b05 Level-0 table #5: started
-2024/07/15-09:25:46.461 4b05 Level-0 table #5: 1609823 bytes OK
-2024/07/15-09:25:46.464 4b05 Delete type=0 #3
-2024/07/15-10:14:20.167 4b07 Level-0 table #7: started
-2024/07/15-10:14:20.183 4b07 Level-0 table #7: 1442180 bytes OK
-2024/07/15-10:14:20.186 4b07 Delete type=0 #4
-2024/07/15-10:14:32.497 4b05 Compacting 1@1 + 1@2 files
-2024/07/15-10:14:32.511 4b05 Generated table #8@1: 327 keys, 90198 bytes
-2024/07/15-10:14:32.511 4b05 Compacted 1@1 + 1@2 files => 90198 bytes
-2024/07/15-10:14:32.512 4b05 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/07/15-10:14:32.513 4b05 Delete type=2 #7
-2024/07/15-10:14:32.513 4b05 Delete type=2 #5
+2024/07/15-15:04:09.002 4fe Reusing MANIFEST /home/rajeev/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/15-15:04:09.002 4fe Recovering log #22
+2024/07/15-15:04:09.003 4fe Reusing old log /home/rajeev/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000022.log 
+2024/07/15-15:04:09.258 4f9 Compacting 1@1 + 1@2 files
+2024/07/15-15:04:09.263 4f9 Generated table #25@1: 370 keys, 41779 bytes
+2024/07/15-15:04:09.263 4f9 Compacted 1@1 + 1@2 files => 41779 bytes
+2024/07/15-15:04:09.264 4f9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/15-15:04:09.265 4f9 Delete type=2 #20
+2024/07/15-15:04:09.265 4f9 Delete type=2 #23
+2024/07/15-17:07:59.333 4fa Level-0 table #27: started
+2024/07/15-17:07:59.349 4fa Level-0 table #27: 1368104 bytes OK
+2024/07/15-17:07:59.351 4fa Delete type=0 #22
+2024/07/15-17:13:20.515 4fa Compacting 1@1 + 1@2 files
+2024/07/15-17:13:20.526 4fa Generated table #28@1: 373 keys, 47784 bytes
+2024/07/15-17:13:20.527 4fa Compacted 1@1 + 1@2 files => 47784 bytes
+2024/07/15-17:13:20.528 4fa compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/15-17:13:20.528 4fa Delete type=2 #27
+2024/07/15-17:13:20.528 4fa Delete type=2 #25

@@ -1,3 +1,21 @@
-2024/07/15-09:23:11.679 4 Reusing MANIFEST /home/rajeev/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2024/07/15-09:23:11.680 4 Recovering log #3
-2024/07/15-09:23:11.680 4 Reusing old log /home/rajeev/.config/google-chrome/Default/Session Storage/000003.log 
+2024/07/15-14:50:09.511 4 Reusing MANIFEST /home/rajeev/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2024/07/15-14:50:09.512 4 Recovering log #14
+2024/07/15-14:50:09.513 4 Reusing old log /home/rajeev/.config/google-chrome/Default/Session Storage/000014.log 
+2024/07/15-14:50:14.253 4 Level-0 table #18: started
+2024/07/15-14:50:14.255 4 Level-0 table #18: 25449 bytes OK
+2024/07/15-14:50:14.258 4 Delete type=0 #14
+2024/07/15-14:50:14.259 4 Compacting 4@0 + 1@1 files
+2024/07/15-14:50:14.262 4 Generated table #19@0: 662 keys, 10111 bytes
+2024/07/15-14:50:14.262 4 Compacted 4@0 + 1@1 files => 10111 bytes
+2024/07/15-14:50:14.263 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/15-14:50:14.264 4 Delete type=2 #15
+2024/07/15-14:50:14.264 4 Delete type=2 #12
+2024/07/15-14:50:14.264 4 Delete type=2 #7
+2024/07/15-14:50:14.265 4 Delete type=2 #9
+2024/07/15-14:50:14.265 4 Delete type=2 #18
+2024/07/15-17:17:58.760 6 Level-0 table #21: started
+2024/07/15-17:17:58.768 6 Level-0 table #21: 31933 bytes OK
+2024/07/15-17:17:58.770 6 Delete type=0 #17
+2024/07/15-18:27:32.092 6 Level-0 table #23: started
+2024/07/15-18:27:32.100 6 Level-0 table #23: 92474 bytes OK
+2024/07/15-18:27:32.103 6 Delete type=0 #20

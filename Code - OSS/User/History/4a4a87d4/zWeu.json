@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 13,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Night Owl",
+    "files.autoSave": "onFocusChange",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
