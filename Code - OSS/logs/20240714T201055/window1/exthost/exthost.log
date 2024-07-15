@@ -1,0 +1,12 @@
+2024-07-14 20:10:58.466 [info] Extension host with pid 4653 started
+2024-07-14 20:10:58.466 [info] Skipping acquiring lock for /home/rajeev/.config/Code - OSS/User/workspaceStorage/8d66c5699b2598e497502e38d22c7002.
+2024-07-14 20:10:58.541 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-07-14 20:10:58.601 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-14 20:10:58.643 [info] Eager extensions activated
+2024-07-14 20:10:58.709 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-14 20:10:58.713 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-14 20:11:02.113 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-07-14 20:11:16.448 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-14 20:32:49.737 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-14 20:32:49.757 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-14 20:32:49.863 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

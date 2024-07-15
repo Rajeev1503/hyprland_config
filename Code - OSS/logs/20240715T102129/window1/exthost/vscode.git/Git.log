@@ -1,0 +1,131 @@
+2024-07-15 10:21:31.855 [info] Log level: Info
+2024-07-15 10:21:31.855 [info] Validating found git in: "git"
+2024-07-15 10:21:31.855 [info] Using git "2.45.2" from "git"
+2024-07-15 10:21:31.855 [info] > git rev-parse --show-toplevel [4ms]
+2024-07-15 10:21:31.855 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.855 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-15 10:21:31.855 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.863 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:31.863 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.870 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:31.870 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.876 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:31.876 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.883 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:31.883 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.894 [info] > git rev-parse --show-toplevel [5ms]
+2024-07-15 10:21:31.894 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.900 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:31.901 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.907 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-15 10:21:31.907 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.914 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:31.914 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.921 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:31.921 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.927 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:31.927 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.934 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:31.934 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.940 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:31.947 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-07-15 10:21:31.956 [info] Open repository: /home/rajeev/Graphite-gtk-theme
+2024-07-15 10:21:31.969 [info] > git config --get commit.template [7ms]
+2024-07-15 10:21:31.970 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-15 10:21:31.970 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.981 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-07-15 10:21:31.987 [warning] ENOENT: no such file or directory, open '/home/rajeev/Graphite-gtk-theme/.git/refs/remotes/origin/main'
+2024-07-15 10:21:31.988 [info] > git rev-parse --show-toplevel [7ms]
+2024-07-15 10:21:31.988 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:31.993 [info] > git rev-parse refs/remotes/origin/main [7ms]
+2024-07-15 10:21:31.999 [info] > git rev-parse --show-toplevel [7ms]
+2024-07-15 10:21:31.999 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:32.007 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:32.007 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:32.014 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-15 10:21:32.014 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:32.021 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:32.021 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:21:32.087 [info] > git status -z -uall [89ms]
+2024-07-15 10:21:32.106 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2024-07-15 10:21:32.113 [info] > git config --get commit.template [6ms]
+2024-07-15 10:21:32.114 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-07-15 10:21:32.138 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2024-07-15 10:21:32.138 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [18ms]
+2024-07-15 10:21:32.150 [warning] ENOENT: no such file or directory, open '/home/rajeev/Graphite-gtk-theme/.git/refs/remotes/origin/main'
+2024-07-15 10:21:32.150 [info] > git merge-base refs/heads/main refs/remotes/origin/main [7ms]
+2024-07-15 10:21:32.158 [info] > git rev-parse refs/remotes/origin/main [8ms]
+2024-07-15 10:21:32.165 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [9ms]
+2024-07-15 10:21:32.172 [info] > git diff --name-status -z --diff-filter=ADMR 4d567bf7bd238051687f57a7a561848c3669d70a...refs/remotes/origin/main [2ms]
+2024-07-15 10:21:32.249 [info] > git status -z -uall [86ms]
+2024-07-15 10:21:32.258 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-07-15 10:21:32.265 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-07-15 10:21:32.271 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2024-07-15 10:21:32.521 [info] > git check-ignore -v -z --stdin [2ms]
+2024-07-15 10:21:33.581 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-15 10:21:33.581 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:22:05.387 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-15 10:22:05.387 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-07-15 10:23:17.980 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-15 10:23:17.987 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-07-15 10:23:17.990 [info] Open repository: /home/rajeev/.config
+2024-07-15 10:23:17.998 [info] > git config --get commit.template [2ms]
+2024-07-15 10:23:17.998 [info] No remotes found in the git config file.
+2024-07-15 10:23:18.004 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-15 10:23:18.004 [warning] No such branch: master.
+2024-07-15 10:23:18.034 [info] > git status -z -uall [25ms]
+2024-07-15 10:23:18.092 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [41ms]
+2024-07-15 10:23:18.093 [warning] No such branch: master.
+2024-07-15 10:23:18.355 [info] > git config --get commit.template [264ms]
+2024-07-15 10:23:18.365 [info] No remotes found in the git config file.
+2024-07-15 10:23:18.367 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-07-15 10:23:18.367 [warning] No such branch: master.
+2024-07-15 10:23:18.398 [info] > git status -z -uall [24ms]
+2024-07-15 10:23:18.436 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2024-07-15 10:23:18.437 [warning] No such branch: master.
+2024-07-15 10:23:18.460 [info] > git show --textconv :hypr/hyprland.conf [7ms]
+2024-07-15 10:23:18.464 [info] > git ls-files --stage -- /home/rajeev/.config/hypr/hyprland.conf [4ms]
+2024-07-15 10:23:18.736 [info] > git check-ignore -v -z --stdin [7ms]
+2024-07-15 10:23:18.736 [info] > git check-ignore -v -z --stdin [2ms]
+2024-07-15 10:23:20.586 [info] No remotes found in the git config file.
+2024-07-15 10:23:20.587 [info] > git config --get commit.template [9ms]
+2024-07-15 10:23:20.587 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-15 10:23:20.587 [warning] No such branch: master.
+2024-07-15 10:23:20.613 [info] > git status -z -uall [20ms]
+2024-07-15 10:23:20.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [23ms]
+2024-07-15 10:23:20.647 [warning] No such branch: master.
+2024-07-15 10:23:25.660 [info] > git config --get commit.template [2ms]
+2024-07-15 10:23:25.666 [info] No remotes found in the git config file.
+2024-07-15 10:23:25.667 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-15 10:23:25.667 [warning] No such branch: master.
+2024-07-15 10:23:25.694 [info] > git status -z -uall [20ms]
+2024-07-15 10:23:25.725 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [20ms]
+2024-07-15 10:23:25.725 [warning] No such branch: master.
+2024-07-15 10:23:30.746 [info] No remotes found in the git config file.
+2024-07-15 10:23:30.747 [info] > git config --get commit.template [8ms]
+2024-07-15 10:23:30.747 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-07-15 10:23:30.747 [warning] No such branch: master.
+2024-07-15 10:23:30.772 [info] > git status -z -uall [20ms]
+2024-07-15 10:23:30.806 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [23ms]
+2024-07-15 10:23:30.806 [warning] No such branch: master.
