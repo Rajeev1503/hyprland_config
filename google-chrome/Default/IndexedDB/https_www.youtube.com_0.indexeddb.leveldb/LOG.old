@@ -1,18 +1,15 @@
-2024/07/15-15:04:09.002 4fe Reusing MANIFEST /home/rajeev/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/15-15:04:09.002 4fe Recovering log #22
-2024/07/15-15:04:09.003 4fe Reusing old log /home/rajeev/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000022.log 
-2024/07/15-15:04:09.258 4f9 Compacting 1@1 + 1@2 files
-2024/07/15-15:04:09.263 4f9 Generated table #25@1: 370 keys, 41779 bytes
-2024/07/15-15:04:09.263 4f9 Compacted 1@1 + 1@2 files => 41779 bytes
-2024/07/15-15:04:09.264 4f9 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/07/15-15:04:09.265 4f9 Delete type=2 #20
-2024/07/15-15:04:09.265 4f9 Delete type=2 #23
-2024/07/15-17:07:59.333 4fa Level-0 table #27: started
-2024/07/15-17:07:59.349 4fa Level-0 table #27: 1368104 bytes OK
-2024/07/15-17:07:59.351 4fa Delete type=0 #22
-2024/07/15-17:13:20.515 4fa Compacting 1@1 + 1@2 files
-2024/07/15-17:13:20.526 4fa Generated table #28@1: 373 keys, 47784 bytes
-2024/07/15-17:13:20.527 4fa Compacted 1@1 + 1@2 files => 47784 bytes
-2024/07/15-17:13:20.528 4fa compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/07/15-17:13:20.528 4fa Delete type=2 #27
-2024/07/15-17:13:20.528 4fa Delete type=2 #25
+2024/07/15-20:04:02.275 1071a Reusing MANIFEST /home/rajeev/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/15-20:04:02.276 1071a Recovering log #26
+2024/07/15-20:04:02.282 1071a Reusing old log /home/rajeev/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000026.log 
+2024/07/15-20:04:36.815 1071b Level-0 table #31: started
+2024/07/15-20:04:36.824 1071b Level-0 table #31: 1097729 bytes OK
+2024/07/15-20:04:36.826 1071b Delete type=0 #26
+2024/07/15-20:04:36.827 1071b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/15-20:04:36.828 1071b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x02\x1f\x03\x00pI\xd1g\x0byB\x00\x03\x00\x00\x00\x00\x00\x80D@' @ 21121 : 1
+2024/07/15-20:04:36.828 1071b Compacting 1@1 + 1@2 files
+2024/07/15-20:04:36.832 1071b Generated table #32@1: 324 keys, 87620 bytes
+2024/07/15-20:04:36.832 1071b Compacted 1@1 + 1@2 files => 87620 bytes
+2024/07/15-20:04:36.833 1071b compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/15-20:04:36.834 1071b Delete type=2 #31
+2024/07/15-20:04:36.834 1071b Delete type=2 #28
+2024/07/15-20:04:36.834 1071b Manual compaction at level-1 from '\x00\x08\x02\x1f\x03\x00pI\xd1g\x0byB\x00\x03\x00\x00\x00\x00\x00\x80D@' @ 21121 : 1 .. (end); will stop at (end)

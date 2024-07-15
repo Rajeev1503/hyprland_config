@@ -1,0 +1,7 @@
+2024-07-15 22:51:32.248 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rajeev/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rajeev/.vscode-oss/extensions/extensions.json.vsctmp'
+    at h.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)

@@ -28,9 +28,9 @@
             "uiState": {
                 "mode": 1,
                 "x": 965,
-                "y": 51,
+                "y": 53,
                 "width": 948,
-                "height": 1022
+                "height": 1020
             }
         },
         "openedWindows": []
@@ -157,8 +157,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -191,8 +190,7 @@
                     },
                     {
                         "id": "workbench.action.toggleAutoSave",
-                        "label": "A&&uto Save",
-                        "checked": true
+                        "label": "A&&uto Save"
                     },
                     {
                         "id": "submenuitem.MenubarPreferencesMenu",
@@ -496,8 +494,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleMenuBar",
-                                    "label": "Menu &&Bar",
-                                    "checked": true
+                                    "label": "Menu &&Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
@@ -510,8 +507,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
-                                    "label": "S&&tatus Bar",
-                                    "checked": true
+                                    "label": "S&&tatus Bar"
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
@@ -1722,19 +1718,20 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#011627",
+    "themeBackground": "#1e1e2e",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#d6deeb",
-            "background": "#011627",
-            "editorBackground": "#011627",
-            "titleBarBackground": "#011627",
-            "activityBarBackground": "#011627",
-            "sideBarBackground": "#011627",
-            "statusBarBackground": "#011627",
-            "statusBarNoFolderBackground": "#011627"
+            "foreground": "#cdd6f4",
+            "background": "#1e1e2e",
+            "editorBackground": "#1e1e2e",
+            "titleBarBackground": "#11111b",
+            "activityBarBackground": "#11111b",
+            "sideBarBackground": "#181825",
+            "statusBarBackground": "#11111b",
+            "statusBarNoFolderBackground": "#11111b",
+            "windowBorder": "rgba(0, 0, 0, 0)"
         },
         "layoutInfo": {
             "sideBarSide": "left",
@@ -1742,7 +1739,7 @@
             "titleBarHeight": 0,
             "activityBarWidth": 48,
             "sideBarWidth": 170,
-            "statusBarHeight": 22,
+            "statusBarHeight": 0,
             "windowBorder": false
         }
     }
