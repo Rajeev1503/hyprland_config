@@ -2,7 +2,13 @@ autologin.blob="Zc4XXs2wTSrxD4P8emWsUvPu0NyPAdy2a64tPS7nwQcTFyrUgaRpRcbWj9vNuSwR
 autologin.canonical_username="bwndbinwpz8tv6ocb50huikvt"
 autologin.saved_credentials="{\"bwndbinwpz8tv6ocb50huikvt\":[\"bwndbinwpz8tv6ocb50huikvt\",\"Zc4XXs2wTSrxD4P8emWsUvPu0NyPAdy2a64tPS7nwQcTFyrUgaRpRcbWj9vNuSwRtCk9AQPBBN8GV8TvZzdOMQXbvyC96yL2cnWy+oj6R5Ae7mK7T2dSN4bPf1fZfprGNmJZhnDeC9rl1KHKDVwYYu6+sCYFvRq2TiybNsx01ikzi5/hgawTL1gIEPSBSuZxMHDPuoYPMwxz7wF9D5GrWIgTiz1QUwp2uab5DuFUnGbq6Kc1mx+P3/Qhy/8zf+Hm4U99Of0+trZkCfDtGgGzHUNYDzHQ31O61IpGdfYXEercD+/SepQincYEIpeQTnUWTqbo5FtlGiwm8XJinkLi4w==\"]}"
 core.clock_delta=0
+app.window.position.x=7
 autologin.username="bwndbinwpz8tv6ocb50huikvt"
 app.enable-chrome-runtime=true
+app.window.position.saved=true
+app.window.position.height=1020
+app.window.position.y=53
 storage.last-location="/home/rajeev/.cache/spotify/Storage"
+app.window.state.saved=true
+app.window.position.width=1906
 app.last-launched-version="1.2.40.599.g606b7f29"

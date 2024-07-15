@@ -1,3 +1,6 @@
-2024/07/15-13:28:52.016 6 Reusing MANIFEST /home/rajeev/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
-2024/07/15-13:28:52.017 6 Recovering log #3
-2024/07/15-13:28:52.017 6 Reusing old log /home/rajeev/.config/google-chrome/Profile 1/Local Storage/leveldb/000003.log 
+2024/07/16-00:00:15.088 4 Reusing MANIFEST /home/rajeev/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2024/07/16-00:00:15.089 4 Recovering log #3
+2024/07/16-00:00:15.090 4 Reusing old log /home/rajeev/.config/google-chrome/Profile 1/Local Storage/leveldb/000003.log 
+2024/07/16-00:07:38.108 6 Level-0 table #5: started
+2024/07/16-00:07:38.117 6 Level-0 table #5: 19162 bytes OK
+2024/07/16-00:07:38.118 6 Delete type=0 #3

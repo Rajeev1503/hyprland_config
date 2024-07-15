@@ -1,12 +1,9 @@
-2024/07/15-20:06:28.033 1071d Reusing MANIFEST /home/rajeev/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/15-20:06:28.034 1071d Recovering log #30
-2024/07/15-20:06:28.034 1071d Reusing old log /home/rajeev/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000030.log 
-2024/07/15-20:32:14.872 1071b Level-0 table #35: started
-2024/07/15-20:32:14.888 1071b Level-0 table #35: 1699833 bytes OK
-2024/07/15-20:32:14.891 1071b Delete type=0 #30
-2024/07/15-20:32:37.038 1071b Compacting 1@1 + 1@2 files
-2024/07/15-20:32:37.049 1071b Generated table #36@1: 368 keys, 60253 bytes
-2024/07/15-20:32:37.050 1071b Compacted 1@1 + 1@2 files => 60253 bytes
-2024/07/15-20:32:37.051 1071b compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/07/15-20:32:37.051 1071b Delete type=2 #32
-2024/07/15-20:32:37.051 1071b Delete type=2 #35
+2024/07/16-00:26:22.483 2075b Reusing MANIFEST /home/rajeev/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/16-00:26:22.483 2075b Recovering log #38
+2024/07/16-00:26:22.484 2075b Reusing old log /home/rajeev/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000038.log 
+2024/07/16-00:26:23.599 2075c Compacting 1@1 + 1@2 files
+2024/07/16-00:26:23.610 2075c Generated table #41@1: 339 keys, 61102 bytes
+2024/07/16-00:26:23.610 2075c Compacted 1@1 + 1@2 files => 61102 bytes
+2024/07/16-00:26:23.611 2075c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/16-00:26:23.612 2075c Delete type=2 #36
+2024/07/16-00:26:23.612 2075c Delete type=2 #39

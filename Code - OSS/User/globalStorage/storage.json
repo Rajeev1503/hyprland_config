@@ -27,7 +27,7 @@
             "backupPath": "/home/rajeev/.config/Code - OSS/Backups/b368d42ae40d81ac7417e5d02cec7cc7",
             "uiState": {
                 "mode": 1,
-                "x": 965,
+                "x": 7,
                 "y": 53,
                 "width": 948,
                 "height": 1020
@@ -823,7 +823,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -832,7 +833,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
